@@ -13,7 +13,5 @@ Este es un programa en TypeScript que representa un grafo y permite verificar la
 
 2. Abre una terminal y navega hasta el directorio del programa.
 
-3. Instala las dependencias ejecutando el siguiente comando:
-
-   ```shell
-   npm install
+3. Para correr el codigo lo puede ingresar en este compilador online
+    https://www.typescriptlang.org/play
